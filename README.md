@@ -3,7 +3,7 @@ A basic cv-veiwer
 
 
 requirements:(see it working in editor)
-or run online @https://githun.com/Davinci-Developer/cv-veiwer 
+or run online @https://github.com/Davinci-Developer/cv-veiwer 
 
 nodejs v17.0.0
 vscode or any editor
